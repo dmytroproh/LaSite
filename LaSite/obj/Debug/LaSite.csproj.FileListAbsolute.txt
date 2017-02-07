@@ -55,6 +55,10 @@ c:\users\dimka\documents\visual studio 2015\Projects\LaSite\LaSite\bin\ru\System
 c:\users\dimka\documents\visual studio 2015\Projects\LaSite\LaSite\bin\ru\System.Web.WebPages.resources.dll
 c:\users\dimka\documents\visual studio 2015\Projects\LaSite\LaSite\bin\ru\System.Web.WebPages.Deployment.resources.dll
 c:\users\dimka\documents\visual studio 2015\Projects\LaSite\LaSite\bin\ru\System.Web.WebPages.Razor.resources.dll
-c:\users\dimka\documents\visual studio 2015\Projects\LaSite\LaSite\obj\Debug\LaSite.csprojResolveAssemblyReference.cache
 c:\users\dimka\documents\visual studio 2015\Projects\LaSite\LaSite\obj\Debug\LaSite.dll
 c:\users\dimka\documents\visual studio 2015\Projects\LaSite\LaSite\obj\Debug\LaSite.pdb
+C:\Users\dimka\Documents\Visual Studio 2015\Projects\LaSite\LaSite\bin\EntityFramework.dll
+C:\Users\dimka\Documents\Visual Studio 2015\Projects\LaSite\LaSite\bin\EntityFramework.SqlServer.dll
+C:\Users\dimka\Documents\Visual Studio 2015\Projects\LaSite\LaSite\bin\EntityFramework.xml
+C:\Users\dimka\Documents\Visual Studio 2015\Projects\LaSite\LaSite\bin\EntityFramework.SqlServer.xml
+C:\Users\dimka\Documents\Visual Studio 2015\Projects\LaSite\LaSite\obj\Debug\LaSite.csprojResolveAssemblyReference.cache
